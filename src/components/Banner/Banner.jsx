@@ -31,7 +31,7 @@ const Banner = () => {
                   {" "}
                   We know that <span className="text-primary">time</span> is the
                   greatest value in the modern world. Our healthy meal plan
-                  delivery service Good Food in Delhi is the answer for those
+                  delivery service True Food in Delhi is the answer for those
                   who want to eat healthily, saving time for buying food and
                   preparing delicious, healthy meals.
                 </p>
@@ -50,7 +50,7 @@ const Banner = () => {
                   {" "}
                   We know that <span className="text-primary">time</span> is the
                   greatest value in the modern world. Our healthy meal plan
-                  delivery service Good Food in Delhi is the answer for those
+                  delivery service True Food in Delhi is the answer for those
                   who want to eat healthily, saving time for buying food and
                   preparing delicious, healthy meals.
                 </p>

@@ -27,7 +27,7 @@ const Hero = () => {
                 in Delhi.
               </h1>
               <p data-aos="fade-up" data-aos-delay="300" className="lg:pr-64">
-                Delicious Meals Delivered to Your Door From 250₹ per week
+                Delicious Meals Delivered to Your Door From 300₹ per week
               </p>
 
               {/* button section */}
